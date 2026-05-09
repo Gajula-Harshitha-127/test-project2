@@ -1,3 +1,3 @@
 Test project
-added addition test.py file
+added addition.py file
 added subtraction.py file
